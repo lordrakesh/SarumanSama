@@ -9,11 +9,11 @@
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=I+Will+Keep+Moving+Forward;Tatakae+🕊️;I+Have+Always+Hated+You;Tatakae+🕊️" alt="lordrakesh">
 </p>
 
-- 🥖 currently learning **Whatsapp Automation**.
+- 🍞 Currently learning **Whatsapp Automation**.
 
-- 🍁 Currently focusing on **Life**.
+- 🍂 Currently focusing on **Life**.
 
-- 💼 currently working at [`Haitani-Brothers`](https://github.com/Haitani-Brothers) 
+- 💼 Currently working at [`Haitani-Brothers`](https://github.com/Haitani-Brothers) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
