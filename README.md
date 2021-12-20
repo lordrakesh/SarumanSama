@@ -5,6 +5,10 @@
 <img src="https://c.tenor.com/hKVgBccfricAAAAd/eren-attack.gif" width="100%" alt="API Giphy logo"/>
 </p>
 
+<p align="center">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Accept+Pain...;Know+Pain...;Feel+Pain..." alt="Pain">
+</p>
+
 - 🌱 I’m currently learning **Something New**.
 
 - 👀 I'm currently focusing on **Life**.
